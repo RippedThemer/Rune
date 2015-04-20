@@ -1,0 +1,113 @@
+{
+    "wallpapers": [
+            {
+                "name": "Nano",
+                "wallpaper": [
+                   {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano.png",
+                        "name": "Nano"
+                    },
+                     {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano2.png",
+                        "name": "Nano2"
+                    },
+                        {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano3.png",
+                        "name": "Nano3"
+                        },
+                        {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano4.png",
+                        "name": "Nano4"
+                },
+            {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano5.png",
+                        "name": "Nano5"
+                    },
+                        {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano6.png",
+                        "name": "Nano6"
+                     },
+                     {
+                        "author": "Juan Pacheco",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano7.png",
+                        "name": "Nano7"
+            },
+    {
+                "name": "AGR",
+                "wallpaper": [
+                    {
+                        "author": "Ruben Flores",
+                        "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr.png",
+                        "name": "AGR"
+                    },
+                    {
+                        "author": "Ruben Flores",
+                        "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr2.png",
+                        "name": "AGR2"
+                    },
+                    {
+                        "author": "Ruben Flores",
+                        "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr3.png",
+                        "name": "AGR3"
+                    },
+                    {
+                        "author": "Ruben Flores",
+                        "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr4.png",
+                        "name": "AGR4"
+                    },
+                    {
+                        "author": "Ruben Flores",
+                        "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr5.png",
+                        "name": "AGR5"
+            },
+{            
+                "name": "Rune",
+                "wallpaper": [
+                    { 
+                       "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune.png",
+                        "name": "Rune"
+                    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune2.png",
+                        "name": "Rune2"
+                    },
+                    {
+			"author": "Travis Hall",
+			"url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune3.png",
+			"name": "Rune3"
+		    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune4.png",
+                        "name": "Rune4"
+		    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune5.png",
+                        "name": "Rune5"
+		    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune6.png",
+                        "name": "Rune6"
+		    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune7.png",
+                        "name": "Rune7"
+		    },
+                    {
+                        "author": "Travis Hall",
+                        "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune8.png",
+                        "name": "Rune8"
+                    }
+          ]
+}
