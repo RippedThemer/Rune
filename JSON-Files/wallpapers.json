@@ -1,9 +1,6 @@
 {
     "wallpapers": [
             {
-                "name": "Nano",
-                "wallpaper": [
-                   {
                         "author": "Juan Pacheco",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/nano.png",
                         "name": "Nano"
@@ -39,9 +36,6 @@
                         "name": "Nano7"
             },
     {
-                "name": "AGR",
-                "wallpaper": [
-                    {
                         "author": "Ruben Flores",
                         "url": "https://github.com/RippedThemer/Rune/raw/master/Wallpapers/agr.png",
                         "name": "AGR"
@@ -67,9 +61,6 @@
                         "name": "AGR5"
             },
 {            
-                "name": "Rune",
-                "wallpaper": [
-                    { 
                        "author": "Travis Hall",
                         "url": "https://raw.githubusercontent.com/RippedThemer/Rune/master/Wallpapers/rune.png",
                         "name": "Rune"
